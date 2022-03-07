@@ -19,3 +19,8 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+
+
+#Demo
+https://adoring-euclid-46ff3b.netlify.app/#/
